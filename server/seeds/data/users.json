@@ -1,0 +1,151 @@
+[{
+  "id": 1,
+  "firstName": "Alfreda",
+  "lastName": "Rochell",
+  "username": "arochell0",
+  "age": 33,
+  "email": "arochell0@wikispaces.com",
+  "password": "lQ8/=gT#a",
+  "phoneNumber": "5024970608",
+  "permission": "admin"
+}, {
+  "id": 2,
+  "firstName": "Cory",
+  "lastName": "Konig",
+  "username": "ckonig1",
+  "age": 61,
+  "email": "ckonig1@macromedia.com",
+  "password": "mT4&>N1mH.b68",
+  "phoneNumber": "6891393221",
+  "permission": "admin"
+}, {
+  "id": 3,
+  "firstName": "Rosetta",
+  "lastName": "Jodlkowski",
+  "username": "rjodlkowski2",
+  "age": 26,
+  "email": "rjodlkowski2@twitter.com",
+  "password": "vI6~*d\\jv6",
+  "phoneNumber": "9162414488",
+  "permission": "admin"
+}, {
+  "id": 4,
+  "firstName": "Gene",
+  "lastName": "Vearnals",
+  "username": "gvearnals3",
+  "age": 76,
+  "email": "gvearnals3@a8.net",
+  "password": "hT3~UhS=",
+  "phoneNumber": "9220216051",
+  "permission": "admin"
+}, {
+  "id": 5,
+  "firstName": "Alie",
+  "lastName": "Sager",
+  "username": "asager4",
+  "age": 42,
+  "email": "asager4@topsy.com",
+  "password": "xP9_6mEp",
+  "phoneNumber": "3426229811",
+  "permission": "tenant"
+}, {
+  "id": 6,
+  "firstName": "Tracy",
+  "lastName": "Marton",
+  "username": "tmarton5",
+  "age": 70,
+  "email": "tmarton5@livejournal.com",
+  "password": "nE9_PN'hb2",
+  "phoneNumber": "8805959707",
+  "permission": "owner"
+}, {
+  "id": 7,
+  "firstName": "Grover",
+  "lastName": "Espy",
+  "username": "gespy6",
+  "age": 18,
+  "email": "gespy6@nytimes.com",
+  "password": "pC5|=3OJ6.!",
+  "phoneNumber": "5944289627",
+  "permission": "admin"
+}, {
+  "id": 8,
+  "firstName": "Luciana",
+  "lastName": "Moorton",
+  "username": "lmoorton7",
+  "age": 77,
+  "email": "lmoorton7@hibu.com",
+  "password": "tD1+P\"%C",
+  "phoneNumber": "8712403652",
+  "permission": "tenant"
+}, {
+  "id": 9,
+  "firstName": "Madelena",
+  "lastName": "Bruckmann",
+  "username": "mbruckmann8",
+  "age": 64,
+  "email": "mbruckmann8@nydailynews.com",
+  "password": "gM3?zKz}@GL5rYyz",
+  "phoneNumber": "9518243557",
+  "permission": "owner"
+}, {
+  "id": 10,
+  "firstName": "Maxine",
+  "lastName": "Clement",
+  "username": "mclement9",
+  "age": 27,
+  "email": "mclement9@illinois.edu",
+  "password": "nL1\"dO$4w'p",
+  "phoneNumber": "9891159728",
+  "permission": "admin"
+}, {
+  "id": 11,
+  "firstName": "Angelo",
+  "lastName": "McKellen",
+  "username": "amckellena",
+  "age": 65,
+  "email": "amckellena@smh.com.au",
+  "password": "sL5*{wq)p>",
+  "phoneNumber": "5749736180",
+  "permission": "owner"
+}, {
+  "id": 12,
+  "firstName": "Scottie",
+  "lastName": "Padberry",
+  "username": "spadberryb",
+  "age": 57,
+  "email": "spadberryb@mozilla.org",
+  "password": "gT4$M\\='",
+  "phoneNumber": "1214437133",
+  "permission": "admin"
+}, {
+  "id": 13,
+  "firstName": "Goddart",
+  "lastName": "Panketh",
+  "username": "gpankethc",
+  "age": 24,
+  "email": "gpankethc@blogs.com",
+  "password": "rE6_~(P>tO\\Lfn}{",
+  "phoneNumber": "7870428922",
+  "permission": "admin"
+}, {
+  "id": 14,
+  "firstName": "Sharleen",
+  "lastName": "Lartice",
+  "username": "slarticed",
+  "age": 68,
+  "email": "slarticed@edublogs.org",
+  "password": "fP7_%iSV0",
+  "phoneNumber": "7627177340",
+  "permission": "tenant"
+}, {
+  "id": 15,
+  "firstName": "Hobie",
+  "lastName": "Dohmer",
+  "username": "hdohmere",
+  "age": 49,
+  "email": "hdohmere@scientificamerican.com",
+  "password": "sE2\\JC+n*<P'=\"Co",
+  "phoneNumber": "6343790837",
+  "permission": "owner"
+}]

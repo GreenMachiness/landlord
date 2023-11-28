@@ -1,0 +1,181 @@
+[{
+    "id": 1,
+    "address": "450 Westend Street",
+    "city": "Springfield",
+    "state": "Illinois",
+    "zipCode": "62711",
+    "rent": 923.8,
+    "ownerId": 1,
+    "isVacant": false
+  }, {
+    "id": 2,
+    "address": "2 Veith Pass",
+    "city": "Arlington",
+    "state": "Virginia",
+    "zipCode": "22225",
+    "rent": 412.07,
+    "ownerId": 3,
+    "isVacant": true
+  }, {
+    "id": 3,
+    "address": "8 Myrtle Trail",
+    "city": "Chicago",
+    "state": "Illinois",
+    "zipCode": "60604",
+    "rent": 766.55,
+    "ownerId": 5,
+    "isVacant": false
+  }, {
+    "id": 4,
+    "address": "34 Valley Edge Hill",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "zipCode": "35244",
+    "rent": 698.6,
+    "ownerId": 9,
+    "isVacant": false
+  }, {
+    "id": 5,
+    "address": "95334 Gerald Junction",
+    "city": "Fort Wayne",
+    "state": "Indiana",
+    "zipCode": "46896",
+    "rent": 421.19,
+    "ownerId": 3,
+    "isVacant": true
+  }, {
+    "id": 6,
+    "address": "089 Ronald Regan Street",
+    "city": "Temple",
+    "state": "Texas",
+    "zipCode": "76505",
+    "rent": 411.26,
+    "ownerId": 8,
+    "isVacant": false
+  }, {
+    "id": 7,
+    "address": "7331 Bluejay Court",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "zipCode": "46202",
+    "rent": 513.59,
+    "ownerId": 3,
+    "isVacant": false
+  }, {
+    "id": 8,
+    "address": "2252 Kenwood Terrace",
+    "city": "Fort Wayne",
+    "state": "Indiana",
+    "zipCode": "46805",
+    "rent": 402.03,
+    "ownerId": 1,
+    "isVacant": true
+  }, {
+    "id": 9,
+    "address": "461 Shelley Plaza",
+    "city": "Sacramento",
+    "state": "California",
+    "zipCode": "94245",
+    "rent": 633.2,
+    "ownerId": 3,
+    "isVacant": true
+  }, {
+    "id": 10,
+    "address": "67249 Hollow Ridge Way",
+    "city": "Hampton",
+    "state": "Virginia",
+    "zipCode": "23668",
+    "rent": 345.04,
+    "ownerId": 5,
+    "isVacant": false
+  }, {
+    "id": 11,
+    "address": "3 Ridgeview Hill",
+    "city": "Grand Rapids",
+    "state": "Michigan",
+    "zipCode": "49505",
+    "rent": 752.11,
+    "ownerId": 8,
+    "isVacant": false
+  }, {
+    "id": 12,
+    "address": "4260 Hanover Trail",
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "zipCode": "96815",
+    "rent": 764.24,
+    "ownerId": 9,
+    "isVacant": false
+  }, {
+    "id": 13,
+    "address": "541 Logan Way",
+    "city": "Anniston",
+    "state": "Alabama",
+    "zipCode": "36205",
+    "rent": 434.63,
+    "ownerId": 1,
+    "isVacant": false
+  }, {
+    "id": 14,
+    "address": "6 Starling Place",
+    "city": "Gadsden",
+    "state": "Alabama",
+    "zipCode": "35905",
+    "rent": 993.4,
+    "ownerId": 5,
+    "isVacant": true
+  }, {
+    "id": 15,
+    "address": "990 Merchant Lane",
+    "city": "Evanston",
+    "state": "Illinois",
+    "zipCode": "60208",
+    "rent": 321.51,
+    "ownerId": 5,
+    "isVacant": false
+  }, {
+    "id": 16,
+    "address": "2810 Texas Street",
+    "city": "Cambridge",
+    "state": "Massachusetts",
+    "zipCode": "02142",
+    "rent": 310.24,
+    "ownerId": 3,
+    "isVacant": false
+  }, {
+    "id": 17,
+    "address": "1 Pleasure Drive",
+    "city": "Largo",
+    "state": "Florida",
+    "zipCode": "34643",
+    "rent": 318.92,
+    "ownerId": 8,
+    "isVacant": true
+  }, {
+    "id": 18,
+    "address": "32980 Fisk Hill",
+    "city": "Berkeley",
+    "state": "California",
+    "zipCode": "94705",
+    "rent": 421.34,
+    "ownerId": 9,
+    "isVacant": false
+  }, {
+    "id": 19,
+    "address": "8108 Rusk Road",
+    "city": "Waco",
+    "state": "Texas",
+    "zipCode": "76705",
+    "rent": 256.8,
+    "ownerId": 9,
+    "isVacant": false
+  }, {
+    "id": 20,
+    "address": "3 Hayes Crossing",
+    "city": "Yonkers",
+    "state": "New York",
+    "zipCode": "10705",
+    "rent": 42.68,
+    "ownerId": 9,
+    "isVacant": false
+  }]
